@@ -3,8 +3,8 @@ Java/Kotlin API和函数调用链分析工具
 
 ## 准备
 - 部署TCA Server；
-- 部署[CLS](../../server/cls/README.md#部署)，启动License校验功能；
-- 在TCA Client的[config.ini](../../client/config.ini)中设置LICENSE_CONFIG信息。
+- 部署[CLS](https://github.com/Tencent/CodeAnalysis/tree/main/server/cls/README.md#部署)，启动License校验功能；
+- 在TCA Client的[config.ini](https://github.com/Tencent/CodeAnalysis/tree/main/client/config.ini)中设置LICENSE_CONFIG信息。
 
 ## 使用
 - 在TCA上创建对应的分析项目；
